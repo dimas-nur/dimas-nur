@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hello! I'm Dimas Nur Alif Rochmadtulloh.
+
+## Stats:
+<img align="left" alt="Syakir Arif's Github Stats" src="https://github-readme-stats.vercel.app/api?username=syakirarif&show_icons=true&hide_border=false" />
+
+<img align="left" alt="Syakir Arif's Top Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syakirarif&layout=compact"/>
 
 <!--
 **dimas-nur/dimas-nur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
